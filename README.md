@@ -3,15 +3,10 @@
 ## Project description
 
 this is the final project of UDACITY first course from ["backend developper with python"](https://www.udacity.com/course/backend-developer-with-python--nd0044) 5-course nanodegree.
-It is a music venue booking web application running locally.
 
-The project is composed of:
-- a backend flask app
-- a frontend react app
+It is a musical booking web application for artists and venues, built with Flask and powered by a PostgreSQL database backend. The app provides a full-stack experience, with Flask handling routing and server-side logic, Jinja templates rendering dynamic HTML pages, and PostgreSQL storing all artist, venue, and show data. It is running locally.
 
-the backend leverages a postgresql database to store data.
-
-Instructions are provided below to set up the database with initial data and run the app.
+I've included instructions below to set up the database with initial data and run the app.
 
 Initial requirements:
 - python 3.12
