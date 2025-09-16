@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Stacy Barthe",
+    "genres": [
+      "R&B",
+      "Pop",
+      "Soul"
+    ],
+    "city": "Brooklyn",
+    "state": "NY",
+    "phone": null,
+    "website": "https://iamstacybarthe.com",
+    "description": "American singer and songwriter known for her soulful voice and heartfelt lyrics.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/8/88/Stacy_Barthe.jpg",
+    "seeking_description": "Available for live performances and songwriting collaborations."
+  },
+  {
+    "name": "Alicia Keys",
+    "genres": [
+      "R&B",
+      "Soul",
+      "Pop"
+    ],
+    "city": "New York",
+    "state": "NY",
+    "phone": null,
+    "website": "https://www.aliciakeys.com",
+    "description": "Award-winning artist known for her powerful vocals and piano-driven sound.",
+    "image_link": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTyhGjIOZfyg58yQsIMUtN2o2VC2VmIY3sDBJXezbHNjZh6y3C4J80_XvOuwPDLEf6653Igt1yGBmjCbSo",
+    "seeking_description": "Available for concerts, events, and collaborations."
+  },
+  {
+    "name": "Bruno Mars",
+    "genres": [
+      "Pop",
+      "R&B",
+      "Funk"
+    ],
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": null,
+    "website": "https://www.brunomars.com",
+    "description": "Grammy-winning artist known for his energetic performances and retro sound.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bruno_Mars_Doowops.jpg/1024px-Bruno_Mars_Doowops.jpg",
+    "seeking_description": "Available for tours, performances, and brand partnerships."
+  },
+  {
+    "name": "Ariana Grande",
+    "genres": [
+      "Pop",
+      "R&B"
+    ],
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": null,
+    "website": "https://www.arianagrande.com",
+    "description": "Pop sensation known for her wide vocal range and chart-topping hits.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Victorious_Cast_in_Concert.jpg/1920px-Victorious_Cast_in_Concert.jpg",
+    "seeking_description": "Available for concerts, events, and collaborations."
+  },
+  {
+    "name": "Post Malone",
+    "genres": [
+      "Hip-Hop",
+      "Pop",
+      "Rock"
+    ],
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": null,
+    "website": "https://www.postmalone.com",
+    "description": "Artist known for blending hip-hop with rock and pop elements.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Post_Malone_July_2021.jpg/800px-Post_Malone_July_2021.jpg",
+    "seeking_description": "Available for tours, performances, and brand partnerships."
+  },
+  {
+    "name": "Billie Eilish",
+    "genres": [
+      "Pop",
+      "Alternative"
+    ],
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": null,
+    "website": "https://www.billieeilish.com",
+    "description": "Grammy-winning artist known for her unique sound and introspective lyrics.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Billie_Eilish_08_10_2017_-22_%2837191757846%29.jpg/1920px-Billie_Eilish_08_10_2017_-22_%2837191757846%29.jpg",
+    "seeking_description": "Available for concerts, events, and collaborations."
+  },
+  {
+    "name": "Kendrick Lamar",
+    "genres": [
+      "Hip-Hop",
+      "Rap"
+    ],
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": null,
+    "website": "https://www.kendricklamar.com",
+    "description": "Critically acclaimed rapper known for his thought-provoking lyrics and storytelling.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Kendrick-lamar-1360479601.jpg",
+    "seeking_description": "Available for tours, performances, and collaborations."
+  },
+  {
+    "name": "SZA",
+    "genres": [
+      "R&B",
+      "Soul",
+      "Neo-Soul"
+    ],
+    "city": "St. Louis",
+    "state": "MO",
+    "phone": null,
+    "website": "https://www.sza.com",
+    "description": "Grammy-winning artist known for her soulful voice and introspective lyrics.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Glaston2024_2806_300624_%28158_of_173%29_%2853836776232%29_%28cropped%29.jpg/800px-Glaston2024_2806_300624_%28158_of_173%29_%2853836776232%29_%28cropped%29.jpg",
+    "seeking_description": "Available for concerts, events, and collaborations."
+  },
+  {
+    "name": "Halsey",
+    "genres": [
+      "Pop",
+      "Alternative"
+    ],
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": null,
+    "website": "https://www.iamhalsey.com",
+    "description": "Artist known for her unique blend of pop and alternative sounds.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Halsey_September_2019.jpg/800px-Halsey_September_2019.jpg",
+    "seeking_description": "Available for tours, performances, and brand partnerships."
+  },
+  {
+    "name": "Lizzo",
+    "genres": [
+      "Pop",
+      "R&B",
+      "Hip-Hop"
+    ],
+    "city": "Los Angeles",
+    "state": "CA",
+    "phone": null,
+    "website": "https://www.lizzomusic.com",
+    "description": "Artist known for her empowering lyrics and dynamic performances.",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Glasto2023_%28181_of_468%29_%2853009327490%29_%28cropped%29.jpg/800px-Glasto2023_%28181_of_468%29_%2853009327490%29_%28cropped%29.jpg",
+    "seeking_description": "Available for concerts, events, and collaborations."
+  },
+  {
+    "name": "Guns N Petals",
+    "genres": [
+      "Rock n Roll"
+    ],
+    "city": "San Francisco",
+    "state": "CA",
+    "phone": "326-123-5000",
+    "website": "https://www.gunsnpetalsband.com",
+    "facebook_link": "https://www.facebook.com/GunsNPetals",
+    "seeking_venue": true,
+    "seeking_description": "Looking for shows to perform at in the San Francisco Bay Area!",
+    "image_link": "https://images.unsplash.com/photo-1549213783-8284d0336c4f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+    "description": ""
+  },
+  {
+    "name": "Matt Quevedo",
+    "genres": [
+      "Jazz"
+    ],
+    "city": "New York",
+    "state": "NY",
+    "phone": "300-400-5000",
+    "facebook_link": "https://www.facebook.com/mattquevedo923251523",
+    "seeking_venue": false,
+    "image_link": "https://images.unsplash.com/photo-1495223153807-b916f75de8c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+    "description": ""
+  }
+]

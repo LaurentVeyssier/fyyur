@@ -1,0 +1,9 @@
+flask
+Flask-SQLAlchemy
+ipykernel
+psycopg2-binary
+flask-migrate
+flask-moment
+flask-wtf
+babel
+#pandas

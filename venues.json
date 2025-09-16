@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Madison Square Garden",
+    "city": "New York",
+    "state": "NY",
+    "address": "4 Pennsylvania Plaza, New York, NY 10001",
+    "phone": "212-465-6000",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Madison_Square_Garden_%28MSG%29_-_Full_%2848124330357%29.jpg/1920px-Madison_Square_Garden_%28MSG%29_-_Full_%2848124330357%29.jpg",
+    "website": "https://www.msg.com/madison-square-garden",
+    "capacity": "Concerts: ~20,000",
+    "description": "Iconic multi-purpose indoor arena in Midtown Manhattan — long history hosting top concerts, sports, and large-scale events.",
+    "genres": [
+      "Rock n Roll",
+      "Jazz",
+      "Classical",
+      "Folk"
+    ]
+  },
+  {
+    "name": "Radio City Music Hall",
+    "city": "New York",
+    "state": "NY",
+    "address": "1260 6th Ave, New York, NY 10020",
+    "phone": "212-247-4777",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Radio_City_Music_Hall_%2851395756913%29.jpg/1280px-Radio_City_Music_Hall_%2851395756913%29.jpg",
+    "website": "https://www.msg.com/radio-city-music-hall",
+    "capacity": "5,960",
+    "description": "Art Deco landmark theater in Rockefeller Center — famous for concerts, award shows, and the Rockettes.",
+    "genres": [
+      "Rock n Roll",
+      "Jazz",
+      "Classical"
+    ]
+  },
+  {
+    "name": "Hollywood Bowl",
+    "city": "Los Angeles",
+    "state": "CA",
+    "address": "2301 N Highland Ave, Los Angeles, CA 90068",
+    "phone": "(323) 850-2000",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hollywood_Bowl_2024.jpg/1920px-Hollywood_Bowl_2024.jpg",
+    "website": "https://www.hollywoodbowl.com/",
+    "capacity": "17,500",
+    "description": "Historic outdoor amphitheater in the Hollywood Hills — famous for summer seasons, the LA Phil residencies, and its large grassy lawn.",
+    "genres": [
+      "Rock n Roll",
+      "Jazz"
+    ]
+  },
+  {
+    "name": "Chase Center",
+    "city": "San Francisco",
+    "state": "CA",
+    "address": "1 Warriors Way, San Francisco, CA 94158",
+    "phone": "(415) 946-7000",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Chase_Center.jpg/1920px-Chase_Center.jpg",
+    "website": "https://www.chasecenter.com/",
+    "capacity": "Concerts ~19,500 (Basketball ~18,064)",
+    "description": "Modern waterfront arena in Mission Bay — home to the Golden State Warriors and a frequent stop for arena-level tours.",
+    "genres": [
+      "Rock n Roll",
+      "R&B",
+      "Hip-Hop"
+    ]
+  },
+  {
+    "name": "The Forum (Kia Forum)",
+    "city": "Inglewood (Los Angeles)",
+    "state": "CA",
+    "address": "3900 W Manchester Blvd, Inglewood, CA 90305",
+    "phone": "(310) 330-7300",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/8/89/Kiaforum.jpg",
+    "website": "https://www.thekiaforum.com/",
+    "capacity": "17,500",
+    "description": "Legendary indoor arena near LAX — hosted countless iconic concerts since the 1960s, renovated into a premier concert-only venue.",
+    "genres": [
+      "Rock n Roll",
+      "R&B",
+      "Hip-Hop"
+    ]
+  },
+  {
+    "name": "Red Rocks Amphitheatre",
+    "city": "Morrison (near Denver)",
+    "state": "CO",
+    "address": "18300 W Alameda Pkwy, Morrison, CO 80465",
+    "phone": "720-865-2494",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Red_Rocks_Amphitheater.JPG",
+    "website": "https://www.redrocksonline.com/",
+    "capacity": "9,525",
+    "description": "Open-air amphitheatre carved between natural red sandstone monoliths — world-famous for acoustics and scenic views.",
+    "genres": [
+      "Jazz",
+      "Classical",
+      "Folk"
+    ]
+  },
+  {
+    "name": "Fillmore Auditorium",
+    "city": "Denver",
+    "state": "CO",
+    "address": "1510 Clarkson St, Denver, CO 80218",
+    "phone": "(303) 837-0360",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_Fillmore.jpg/1920px-The_Fillmore.jpg",
+    "website": "https://www.livenation.com/venue/KovZpaFEk6/Fillmore-Auditorium-Denver-Events",
+    "capacity": "3,900",
+    "description": "Historic Denver ballroom-style concert hall — intimate setting for rock, pop, and EDM acts.",
+    "genres": [
+      "Rock n Roll",
+      "Pop"
+    ]
+  },
+  {
+    "name": "Ryman Auditorium",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "116 Rep. John Lewis Way N, Nashville, TN 37219",
+    "phone": "1-800-733-6779",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ryman_Auditorium%2C_5th_Avenue%2C_Nashville%2C_TN_%2854384293611%29.jpg",
+    "website": "https://www.ryman.com/",
+    "capacity": "2,362",
+    "description": "Historic venue known as the 'Mother Church of Country Music' — intimate, timber-pew seating and a storied performance history.",
+    "genres": [
+      "Country",
+      "Folk"
+    ]
+  },
+  {
+    "name": "Bridgestone Arena",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "501 Broadway, Nashville, TN 37203",
+    "phone": "(615) 770-2000",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/WTN_EVula_053.jpg/1920px-WTN_EVula_053.jpg",
+    "website": "https://www.bridgestonearena.com/",
+    "capacity": "Concerts up to ~20,000",
+    "description": "Downtown arena home to the Nashville Predators — hosts arena-scale concerts from global touring artists.",
+    "genres": [
+      "Rock n Roll",
+      "R&B",
+      "Country",
+      "Folk"
+    ]
+  },
+  {
+    "name": "United Center",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "1901 W Madison St, Chicago, IL 60612",
+    "phone": "(312) 455-4500",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/c/c6/United_Center.jpg",
+    "website": "https://www.unitedcenter.com/",
+    "capacity": "Concerts up to ~23,500",
+    "description": "Large indoor arena on Chicago's Near West Side — home to the Bulls and Blackhawks and a top North American concert arena.",
+    "genres": [
+      "Rock n Roll",
+      "Jazz",
+      "Classical",
+      "Folk"
+    ]
+  },
+  {
+    "name": "Aragon Ballroom",
+    "city": "Chicago",
+    "state": "IL",
+    "address": "1106 W Lawrence Ave, Chicago, IL 60640",
+    "phone": "(773) 561-9500",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Aragon_Ballroom_Chicago_facade.jpg/1920px-Aragon_Ballroom_Chicago_facade.jpg",
+    "website": "https://www.livenation.com/venue/KovZpaFEke/aragon-ballroom-events",
+    "capacity": "5,000",
+    "description": "Historic Uptown ballroom built in 1926 — ornate Spanish-style architecture and popular mid-size concert venue.",
+    "genres": [
+      "Rock n Roll",
+      "Ethnic"
+    ]
+  },
+  {
+    "name": "ACL Live at The Moody Theater",
+    "city": "Austin",
+    "state": "TX",
+    "address": "310 W Willie Nelson Blvd, Austin, TX 78701",
+    "phone": "(512) 404-1300",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/3/36/Austin_City_Limits_Live_at_the_Moody_Theater_August_2019_07.jpg",
+    "website": "https://www.acllive.com/",
+    "capacity": "2,750",
+    "description": "Intimate modern live-music theater in downtown Austin — home of the Austin City Limits live tapings.",
+    "genres": [
+      "Rock n Roll",
+      "Jazz",
+      "Classical",
+      "Folk"
+    ]
+  },
+  {
+    "name": "Moody Center",
+    "city": "Austin",
+    "state": "TX",
+    "address": "2001 Robert Dedman Dr, Austin, TX 78712",
+    "phone": "(512) 975-2222",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Kylie_Minogue_in_Austin_%2854459854172%29.jpg/1920px-Kylie_Minogue_in_Austin_%2854459854172%29.jpg",
+    "website": "https://moodycenteratx.com/",
+    "capacity": "Concerts up to 15,000",
+    "description": "State-of-the-art indoor arena on the UT Austin campus — opened in 2022, hosts large-scale concerts and sporting events.",
+    "genres": [
+      "Rock n Roll",
+      "Jazz",
+      "Folk"
+    ]
+  },
+  {
+    "name": "Paramount Theatre (Seattle)",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "911 Pine St, Seattle, WA 98101",
+    "phone": "(206) 682-1414",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Paramount_Northwest_03.jpg/1024px-Paramount_Northwest_03.jpg",
+    "website": "https://www.paramounttheatreseattle.net/",
+    "capacity": "2,807",
+    "description": "Historic downtown Seattle performing-arts palace — ornate auditorium hosting concerts, Broadway shows, and large theatrical events.",
+    "genres": [
+      "Rock n Roll",
+      "Jazz",
+      "Classical",
+      "Folk"
+    ]
+  },
+  {
+    "name": "Climate Pledge Arena",
+    "city": "Seattle",
+    "state": "WA",
+    "address": "334 1st Ave N, Seattle, WA 98109",
+    "phone": "(206) 752-7200",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Climate_Pledge_Arena_N.jpg/2560px-Climate_Pledge_Arena_N.jpg",
+    "website": "https://climatepledgearena.com/",
+    "capacity": "Concerts up to ~18,300",
+    "description": "Recently renovated arena at Seattle Center (formerly KeyArena) — home of the Kraken and a top concert destination.",
+    "genres": [
+      "Rock n Roll",
+      "Jazz",
+      "Folk"
+    ]
+  },
+  {
+    "name": "TD Garden",
+    "city": "Boston",
+    "state": "MA",
+    "address": "100 Legends Way, Boston, MA 02114",
+    "phone": "(617) 624-1050",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pregame_Panorama.jpg/2560px-Pregame_Panorama.jpg",
+    "website": "https://www.tdgarden.com/",
+    "capacity": "Concerts ~19,580 (Basketball ~19,156)",
+    "description": "Major multi-purpose arena above North Station — hosts top touring acts plus Celtics/Bruins games.",
+    "genres": [
+      "Rock n Roll",
+      "Jazz",
+      "Classical",
+      "Folk"
+    ]
+  },
+  {
+    "name": "Xfinity Mobile Arena (formerly Wells Fargo Center)",
+    "city": "Philadelphia",
+    "state": "PA",
+    "address": "3601 S Broad St, Philadelphia, PA 19148",
+    "phone": "(215) 336-3600",
+    "image_link": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Wells_Fargo_Center_-_2019_OWL_Grand_Finals.jpg/2560px-Wells_Fargo_Center_-_2019_OWL_Grand_Finals.jpg",
+    "website": "https://www.wellsfargocenterphilly.com/",
+    "capacity": "Concerts / basketball area ~21,000 (varies by config)",
+    "description": "Large South Philadelphia arena (76ers/Flyers) — major arena for stadium-scale concerts and touring residencies. (Renamed Xfinity Mobile Arena effective Sept 1, 2025.)",
+    "genres": [
+      "Rock n Roll",
+      "Jazz",
+      "Classical",
+      "Folk"
+    ]
+  },
+  {
+    "name": "The Musical Hop",
+    "genres": [
+      "Jazz",
+      "Reggae",
+      "Swing",
+      "Classical",
+      "Folk"
+    ],
+    "address": "1015 Folsom Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "phone": "123-123-1234",
+    "website": "https://www.themusicalhop.com",
+    "facebook_link": "https://www.facebook.com/TheMusicalHop",
+    "seeking_talent": true,
+    "seeking_description": "We are on the lookout for a local artist to play every two weeks. Please call us.",
+    "image_link": "https://images.unsplash.com/photo-1543900694-133f37abaaa5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60"
+  },
+  {
+    "name": "The Dueling Pianos Bar",
+    "genres": [
+      "Classical",
+      "R&B",
+      "Hip-Hop"
+    ],
+    "address": "335 Delancey Street",
+    "city": "New York",
+    "state": "NY",
+    "phone": "914-003-1132",
+    "website": "https://www.theduelingpianos.com",
+    "facebook_link": "https://www.facebook.com/theduelingpianos",
+    "seeking_talent": false,
+    "image_link": "https://images.unsplash.com/photo-1497032205916-ac775f0649ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
+  },
+  {
+    "name": "The Wild Sax Band",
+    "genres": [
+      "Jazz",
+      "Classical"
+    ],
+    "city": "San Francisco",
+    "state": "CA",
+    "phone": "432-325-5432",
+    "seeking_venue": false,
+    "image_link": "https://images.unsplash.com/photo-1558369981-f9ca78462e61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=794&q=80",
+    "description": ""
+  },
+  {
+    "name": "Park Square Live Music & Coffee",
+    "genres": [
+      "Rock n Roll",
+      "Jazz",
+      "Classical",
+      "Folk"
+    ],
+    "address": "34 Whiskey Moore Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "phone": "415-000-1234",
+    "website": "https://www.parksquarelivemusicandcoffee.com",
+    "facebook_link": "https://www.facebook.com/ParkSquareLiveMusicAndCoffee",
+    "seeking_talent": false,
+    "image_link": "https://images.unsplash.com/photo-1485686531765-ba63b07845a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=747&q=80"
+  }
+]
