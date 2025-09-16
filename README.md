@@ -1,15 +1,45 @@
-# DB creation and migration
+# Project Fyyur
 
-## DB creation
+## Project description
+
+this is the final project of UDACITY first course from ["backend developper with python"](https://www.udacity.com/course/backend-developer-with-python--nd0044) 5-course nanodegree.
+It is a music venue booking web application running locally.
+
+The project is composed of:
+- a backend flask app
+- a frontend react app
+
+the backend leverages a postgresql database to store data.
+
+Instructions are provided below to set up the database with initial data and run the app.
+
+Initial requirements:
+- python 3.12
+- postgresql
+- uv
+
+## initial setup
+
+from the project root folder, run:
+
+```bash
+uv init
+uv venv
+uv add requirements.txt
+```
+
+## DB creation and migration
+
+### DB creation
 
 login to psql using : psql -h localhost -U postgres
 in psql, created local postgres BD fyyur using : CREATE DATABASE fyyur; 
 
 (to delete the db, use DROP DATABASE fyyur;)
 
-## DB initialization
+### DB initialization
 
-in powershell: (MAKE SURE TO RUN FORM Virutal env to detect flask)
+in powershell: (MAKE SURE TO RUN from your virtual env to detect flask)
 
 ```bash
 flask db init        # first time only
@@ -23,9 +53,9 @@ check schema in psql using
 \d "Artist"; # check schema
 ```
 
-## DB POPULATION
+### DB set-up
 
-run populate_DB_init.py
+run populate_DB_init.py. This will populate the existing DB with initial data.
 
 check in psql using 
 
@@ -37,8 +67,13 @@ SELECT * FROM "Show";
 
 ## App launch
 
-create a .env file and add your db path
+create a .env file and add your db path:
+
+```bash
 DATABASE_URL = your_db_path
+```
+
+then run:
 
 ```bash
 uv run python app.py
@@ -48,9 +83,11 @@ uv run python app.py
 
 
 
-# Notes
-## reset auto increment (modify tablename)
+## Notes: if needed, to reset auto increment (modify the table name)
 
+in psql console:
+
+```sql
 WITH reordered AS (
     SELECT id, ROW_NUMBER() OVER (ORDER BY id) AS new_id
     FROM "Venue"
@@ -59,7 +96,11 @@ UPDATE "Venue" v
 SET id = r.new_id
 FROM reordered r
 WHERE v.id = r.id;
+```
 
  \d "Venue"
+
+```sql
  SELECT setval('"Venue_id_seq"', (SELECT MAX(id) FROM "Venue"));
  # check: select * from "Artist";
+ ```
